@@ -34,3 +34,24 @@ Beauty Review is a review plateforme  where users can  view detailed reviews on 
 
 **- More about the product:** User by clicking in discover will be redirected to product page which show a détail about the product componnent and user reviews
 ![Capture du 2024-05-14 15-45-24](https://github.com/Tihaelka/Beauty-Review/assets/133141813/5b8ae977-86f4-4b2c-9d4e-be846442678d)
+
+**- Installation**
+
+**- Technologies Used**
+Programming languages used to build Beauty Review are:
+
+- Frontend:
+
+        - HTML
+
+        - CSS
+
+         - Javascript
+
+- Backend:
+
+         -  Flask        
+  
+-API:
+
+         - Google API
