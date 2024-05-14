@@ -58,7 +58,7 @@ enthusiasm, we embarked on crafting our very own platform. Reaching out to fello
 **- Technical challenges**
 
 working on the project was very challenging among the challenges we have faced:
--Mobile Responsiveness: With an increasing number of users accessing websites from mobile devices, ensuring that your website is fully responsive and optimized for different screen sizes and resolutions is essential. Adopting a mobile-first approach to design and development can help ensure a seamless user experience across all devices.
+- Mobile Responsiveness: With an increasing number of users accessing websites from mobile devices, ensuring that your website is fully responsive and optimized for different screen sizes and resolutions is essential. Adopting a mobile-first approach to design and development can help ensure a seamless user experience across all devices.
 - Integration with Third-party APIs: Integrating with third-party APIs (Application Programming Interfaces) for features like product data retrieval, can introduce technical complexities. Ensuring smooth integration, handling API rate limits, and error handling
 are important considerations.
 
