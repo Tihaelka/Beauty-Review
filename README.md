@@ -18,6 +18,7 @@ Embarking On the Reviewer Project was a journey filled with challenges and inval
   
 - [Acknowledgments](url)
 
-![Capture du 2024-05-14 15-22-29](https://github.com/Tihaelka/Beauty-Review/assets/133141813/c7c4faf1-1b6e-4b11-90eb-9cd4d740a5d7)
+Beauty Review is a review plateforme  where users can  view detailed reviews on a wide range of Beauty products.  Our community enthusiasts is here to share tips and recommendations to maximize the effectiveness of the products With our interactive system.
+
 
 
