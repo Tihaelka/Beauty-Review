@@ -40,14 +40,12 @@ Beauty Review is a review plateforme  where users can  view detailed reviews on 
 **- Technologies Used**
 Programming languages used to build Beauty Review are:
 - Frontend:
-        - HTML
-
-        - CSS
-
-         - Javascript
+     - HTML
+     - CSS
+     - Javascript
 - Backend:
-         -  Flask        
+      - Flask        
 - Api
-        - Google API
+      - Google API
 - Framework:
-         -Bootstrap
+      -Bootstrap
