@@ -73,8 +73,8 @@ This project has only one author it's me "Kassimi Fatiha":
 
 **Acknpledgments**:
 
--  The logo is by Canva
+-  The logo is from : [Logomark](https://logomakr.com/)
 
-- The project icons are generated from :https://undraw.co/
+- The project icons are generated from : [undraw](https://undraw.co/ )
 
-- Animated icons are from :https://lottiefiles.com/
+- Animated icons are from : [lotifiles](https://lottiefiles.com/)
