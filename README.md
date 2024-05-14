@@ -1,7 +1,7 @@
 ### Beauty Review
 
 Embarking On the Reviewer Project was a journey filled with challenges and invaluable learning experiences.In this document we are seeking to present an overview about the project aim and purpose.
-### Table of content
+### Table of content:
 - [Intrduction](url)
 
 - [Features](url)
@@ -32,12 +32,12 @@ Beauty Review is a review plateforme  where users can  view detailed reviews on 
 
 ![Capture du 2024-05-14 15-40-59](https://github.com/Tihaelka/Beauty-Review/assets/133141813/df8354c0-3414-4064-94b3-069d67aad3c1)
 
-**- More about the product:** User by clicking in discover will be redirected to product page which show a détail about the product componnent and user reviews
+**- More about the product:** :User by clicking in discover will be redirected to product page which show a détail about the product componnent and user reviews
 ![Capture du 2024-05-14 15-45-24](https://github.com/Tihaelka/Beauty-Review/assets/133141813/5b8ae977-86f4-4b2c-9d4e-be846442678d)
 
-**- Installation**
+**- Installation**:
 
-**- Technologies Used**
+**- Technologies Used**:
 Programming languages used to build Beauty Review are:
 - Frontend:
      - HTML
@@ -55,17 +55,26 @@ From our enduring love for cosmetics and skincare, a passion project was born. E
 Thus, the concept of the Beauty Review Project emerged. With a united vision and boundless
 enthusiasm, we embarked on crafting our very own platform. Reaching out to fellow beauty enthusiasts, we sought to create a space where our shared passion could thrive.
 
-**- Technical challenges**
+**- Technical challenges**:
 
 working on the project was very challenging among the challenges we have faced:
 - Mobile Responsiveness: With an increasing number of users accessing websites from mobile devices, ensuring that your website is fully responsive and optimized for different screen sizes and resolutions is essential. Adopting a mobile-first approach to design and development can help ensure a seamless user experience across all devices.
 - Integration with Third-party APIs: Integrating with third-party APIs (Application Programming Interfaces) for features like product data retrieval, can introduce technical complexities. Ensuring smooth integration, handling API rate limits, and error handling
 are important considerations.
 
-**Authors**
+**Authors**:
 
 This project has only one author it's me "Kassimi Fatiha":
 
 - [Github](https://github.com/)
   
 - [linkedin](https://www.linkedin.com/feed/)
+
+
+**Acknpledgments**:
+
+-  The logo is by Canva
+
+- The project icons are generated from :https://undraw.co/
+
+- Animated icons are from :https://lottiefiles.com/
