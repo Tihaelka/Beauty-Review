@@ -62,8 +62,10 @@ working on the project was very challenging among the challenges we have faced:
 - Integration with Third-party APIs: Integrating with third-party APIs (Application Programming Interfaces) for features like product data retrieval, can introduce technical complexities. Ensuring smooth integration, handling API rate limits, and error handling
 are important considerations.
 
-
 **Authors**
-This project has only one author it's me "Kassimi Fatiha"
-[Github](https://github.com/)
-[linkedin](https://www.linkedin.com/feed/)
+
+This project has only one author it's me "Kassimi Fatiha":
+
+- [Github](https://github.com/)
+  
+- [linkedin](https://www.linkedin.com/feed/)
