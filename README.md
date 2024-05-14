@@ -44,8 +44,8 @@ Programming languages used to build Beauty Review are:
      - CSS
      - Javascript
 - Backend:
-      - Flask        
+     - Python Flask
 - Api
-      - Google API
+     - Google Api
 - Framework:
       -Bootstrap
