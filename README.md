@@ -48,4 +48,4 @@ Programming languages used to build Beauty Review are:
 - Api
      - Google Api
 - Framework:
-      -Bootstrap
+    - Google Api
