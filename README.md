@@ -49,10 +49,12 @@ Programming languages used to build Beauty Review are:
      - Google Api
 - Framework:
     - Bootstrap
+ 
 **- Inspiration and vision**
 From our enduring love for cosmetics and skincare, a passion project was born. Each weekend, we'd eagerly gather around a table stacked with the latest beauty products, swapping tips and discussing our favorites.
 Thus, the concept of the Beauty Review Project emerged. With a united vision and boundless
 enthusiasm, we embarked on crafting our very own platform. Reaching out to fellow beauty enthusiasts, we sought to create a space where our shared passion could thrive.
+
 **- Technical challenges**
 working on the project was very challenging among the challenges we have faced:
 -Mobile Responsiveness: With an increasing number of users accessing websites from mobile devices, ensuring that your website is fully responsive and optimized for different screen sizes and resolutions is essential. Adopting a mobile-first approach to design and development can help ensure a seamless user experience across all devices.
