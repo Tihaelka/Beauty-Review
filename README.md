@@ -6,7 +6,7 @@ Embarking On the Reviewer Project was a journey filled with challenges and inval
 
 - [Features](url)
 
-- [Installation](url)
+- [Test](url)
 
 - [Technologies used](url)
 
