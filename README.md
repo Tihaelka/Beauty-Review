@@ -56,6 +56,9 @@ Programming languages used to build Beauty Review are:
      - Response Format: json
      - Search for products and filter them by brand, price, product category, tags and many more. Take a look at the full list below!
      - This API also provides visual representation of the all of JSON data that is available as well
+       
+       ![Capture du 2024-05-15 09-39-05](https://github.com/Tihaelka/Beauty-Review/assets/133141813/2dc21368-fd16-4771-8987-34955fc32497)
+
 - Framework:
     - Bootstrap
  
