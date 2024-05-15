@@ -23,8 +23,6 @@ Beauty Review is a review plateforme  where users can  view detailed reviews on 
 **Features**
 ![Capture du 2024-05-14 15-22-29](https://github.com/Tihaelka/Beauty-Review/assets/133141813/8b4e2dbe-eb8d-4e20-a078-37ff654dce88)
 
-![Capture du 2024-05-14 15-22-29](https://github.com/Tihaelka/Beauty-Review/assets/133141813/8b4e2dbe-eb8d-4e20-a078-37ff654dce88)
-
 **- User Interfase :** where you can navigate our website interfase highlithing our services and  check  the new range of the products and laset review by clicking on services 
  
 ![Capture du 2024-05-14 15-38-49](https://github.com/Tihaelka/Beauty-Review/assets/133141813/2484e3fd-06e8-4920-8328-bda13a0c877d)
@@ -35,6 +33,7 @@ Beauty Review is a review plateforme  where users can  view detailed reviews on 
 **- More about the product:** :User by clicking in discover will be redirected to product page which show a détail about the product componnent and user reviews
 ![Capture du 2024-05-14 22-49-27](https://github.com/Tihaelka/Beauty-Review/assets/133141813/3e49d175-3169-46fb-acdf-a95a69b33ca2)
 
+ 
 **- Installation**:
 
 **- Technologies Used**:
