@@ -33,8 +33,11 @@ Beauty Review is a review plateforme  where users can  view detailed reviews on 
 **- More about the product:** :User by clicking in discover will be redirected to product page which show a détail about the product componnent and user reviews
 ![Capture du 2024-05-14 22-49-27](https://github.com/Tihaelka/Beauty-Review/assets/133141813/3e49d175-3169-46fb-acdf-a95a69b33ca2)
 
- 
-**- Installation**:
+ **- login page:** where users coud access to their space
+![Capture du 2024-05-14 22-50-07](https://github.com/Tihaelka/Beauty-Review/assets/133141813/294c94d2-586e-44de-aeae-c585c1b252f7)
+
+
+**- Test of Api**:
 
 **- Technologies Used**:
 Programming languages used to build Beauty Review are:
@@ -45,7 +48,14 @@ Programming languages used to build Beauty Review are:
 - Backend:
      - Python Flask
 - Api
-     - Google Api
+     - Make up Api
+     - Protocol: The transport is HTTP. This API conforms to REST principals
+     - API Endpoints: The endpoint for the current API version is:http://makeup-api.herokuapp.com/api/v1/products.json
+     - There is currently one API call: Search makeup products
+     - Type: GET
+     - Response Format: json
+     - Search for products and filter them by brand, price, product category, tags and many more. Take a look at the full list below!
+     - This API also provides visual representation of the all of JSON data that is available as well
 - Framework:
     - Bootstrap
  
