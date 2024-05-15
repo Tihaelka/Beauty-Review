@@ -37,7 +37,9 @@ Beauty Review is a review plateforme  where users can  view detailed reviews on 
 ![Capture du 2024-05-14 22-50-07](https://github.com/Tihaelka/Beauty-Review/assets/133141813/294c94d2-586e-44de-aeae-c585c1b252f7)
 
 
-**- Test of Api**:
+**- Test of login**:
+- username: 'kminchelle',
+- password: '0lelplR',
 
 **- Technologies Used**:
 Programming languages used to build Beauty Review are:
@@ -90,3 +92,5 @@ This project has only one author it's me "Kassimi Fatiha":
 - The project icons are generated from : [undraw](https://undraw.co/ )
 
 - Animated icons are from : [lotifiles](https://lottiefiles.com/)
+- Makeup Api ftom : [Makeup api](https://makeup-api.herokuapp.com/)
+- login Api from DummyJson : [Makeup api](https://dummyjson.com/)
