@@ -23,17 +23,17 @@ Beauty Review is a review plateforme  where users can  view detailed reviews on 
 **Features**
 ![Capture du 2024-05-14 15-22-29](https://github.com/Tihaelka/Beauty-Review/assets/133141813/8b4e2dbe-eb8d-4e20-a078-37ff654dce88)
 
+![Capture du 2024-05-14 15-22-29](https://github.com/Tihaelka/Beauty-Review/assets/133141813/8b4e2dbe-eb8d-4e20-a078-37ff654dce88)
+
 **- User Interfase :** where you can navigate our website interfase highlithing our services and  check  the new range of the products and laset review by clicking on services 
  
 ![Capture du 2024-05-14 15-38-49](https://github.com/Tihaelka/Beauty-Review/assets/133141813/2484e3fd-06e8-4920-8328-bda13a0c877d)
 
 **- Latest articles and reviews:** This page showing the laset products on the market with  user reviews
-![Capture du 2024-05-14 15-40-41](https://github.com/Tihaelka/Beauty-Review/assets/133141813/59cab786-98b6-4244-941e-50700dd0bb2c)
-
-![Capture du 2024-05-14 15-40-59](https://github.com/Tihaelka/Beauty-Review/assets/133141813/df8354c0-3414-4064-94b3-069d67aad3c1)
+![Capture du 2024-05-14 22-49-07](https://github.com/Tihaelka/Beauty-Review/assets/133141813/94c38750-100b-42fc-9344-58f9b905a6e1)
 
 **- More about the product:** :User by clicking in discover will be redirected to product page which show a détail about the product componnent and user reviews
-![Capture du 2024-05-14 15-45-24](https://github.com/Tihaelka/Beauty-Review/assets/133141813/5b8ae977-86f4-4b2c-9d4e-be846442678d)
+![Capture du 2024-05-14 22-49-27](https://github.com/Tihaelka/Beauty-Review/assets/133141813/3e49d175-3169-46fb-acdf-a95a69b33ca2)
 
 **- Installation**:
 
