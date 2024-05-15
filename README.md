@@ -30,7 +30,7 @@ Beauty Review is a review plateforme  where users can  view detailed reviews on 
 **- Latest articles and reviews:** This page showing the laset products on the market with  user reviews
 ![Capture du 2024-05-14 22-49-07](https://github.com/Tihaelka/Beauty-Review/assets/133141813/94c38750-100b-42fc-9344-58f9b905a6e1)
 
-**- More about the product:** :User by clicking in discover will be redirected to product page which show a détail about the product componnent and user reviews
+**- More about the product:** :User by clicking on discover will be redirected to product page which show a détail about the product componnent and user reviews
 ![Capture du 2024-05-14 22-49-27](https://github.com/Tihaelka/Beauty-Review/assets/133141813/3e49d175-3169-46fb-acdf-a95a69b33ca2)
 
  **- login page:** where users coud access to their space
